@@ -3,7 +3,7 @@
 # 👋 Hey there! I'm REYAN DAS
 ### 🚀 Mobile App Developer | CS Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Android+Enthusiast;Fintech+Solutions+Builder;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Android+Enthusiast;Problem Ssolver+Builder;Always+Learning+New+Things!" alt="Typing SVG" />
 
 ## 🛠️ Tech Arsenal
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
