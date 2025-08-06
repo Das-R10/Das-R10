@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there! I'm REYANDAS
-### 🚀 Mobile Developer | Fintech Enthusiast | CS Student
+### 🚀 Mobile App Developer | CS Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Android+Enthusiast;Fintech+Solutions+Builder;Always+Learning+New+Things!" alt="Typing SVG" />
 
@@ -20,11 +20,14 @@
 ⚡ Turning ideas into scalable mobile solutions  
 🎯 Passionate about creating seamless user experiences 
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Das-R10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
 📍 **Location:** West Bengal, India  
-📧 **Contact:** reyandas10@gmail.com
+📧 **Contact:** reyandas10@gmail.com  
+
+**Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyan-das-1533b4276)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/reyan_.x1?igsh=ZWQzZmFia2M3NHFm)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/D3vil_RDX?t=oznDMW4-45r5YyG7WK4a9Q&s=09)
+
 
 </div>
 
