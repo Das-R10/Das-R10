@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm REYANDAS
+# 👋 Hii! I'm REYAN DAS
 ### 🚀 Mobile Developer | CS Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Android+Enthusiast;Fintech+Solutions+Builder;Always+Learning+New+Things!" alt="Typing SVG" />
