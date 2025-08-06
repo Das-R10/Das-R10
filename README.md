@@ -14,13 +14,14 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 💼 What I Do
-💰 Built FD investment apps with seamless financial API integrations  
-🏦 Connected multiple RBI-licensed banks & NBFCs  
-📱 Crafting mobile experiences that matter  
-🎓 Currently pursuing BTech in Computer Science  
+📱 Full-stack mobile app developer with 2+ years of experience  
+💼 Completed internships in app development  
+🚀 Building diverse applications across various domains  
+⚡ Turning ideas into scalable mobile solutions  
+🎯 Passionate about creating seamless user experiences 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Das-R10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 
 📍 **Location:** West Bengal, India  
 📧 **Contact:** reyandas10@gmail.com
